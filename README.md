@@ -11,7 +11,7 @@
 
 ## About
 
-Do you need a simple but flexible solution for storing and transporting your 28/32 mm tabletop minitatures?
+Plain tabletop miniature bases with smooth edges and a cylindrical cutout on the bottom for cylinder magnets.
 
 <!--<p align="center"><img src="img/IMG_20210620_173502.jpg" alt="MiniBox showcase 1" width="800"></p>-->
 
