@@ -66,7 +66,7 @@ You can find the latest release [here](https://github.com/manolitto/minibase/rel
 
 ## Credits
 
-Based on and remixed from the [Creature Bases by Miguel Zavala](https://www.thingiverse.com/thing:2907324)
+Based on and remixed from the [Creature Bases by Miguel Zavala alias "mz4250"](https://www.thingiverse.com/thing:2907324)
 
 ## License
 
