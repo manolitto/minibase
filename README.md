@@ -25,7 +25,7 @@ Meant to be used as a replacement for original mini bases which:
 
 #### Key features:
 
-- compatible with my magnetic [Number Token Bases](https://www.thingiverse.com/thing:4632098)
+- compatible with my magnetic [Number Token Bases](https://github.com/manolitto/minitag)
 - compatible with my customizable [Mini Boxes](https://github.com/manolitto/minibox)
 
 <p align="center"><img src="img/sample2.png" alt="MiniBase sample 2" height="300"></p>
